@@ -5,7 +5,7 @@ Descriptive Analytics Project
 
 A descriptive analytics report on **30 days of e-commerce eyewear and vision-care transactions**, built on a **synthetic dataset** that mirrors real Lenskart-style order patterns. It answers *what happened, who transacted, and how much value moved*, and closes with a roadmap toward predictive analytics.
 
-**Author:** Aditya Kushwaha
+**Author:** Aman Yadav
 **Programme:** BCA (Data Science & AI), School of Computer Applications, Babu Banaras Das University
 
 📄 **Report:** [Lenskart_Transaction_Descriptive_Analytics_Report.pdf](Lenskart_Transaction_Descriptive_Analytics_Report.pdf)
@@ -129,7 +129,7 @@ A set of six hands-on practicals built in **IBM Cognos Analytics** using the fic
 
 Four hands-on practicals in **Microsoft Power BI** using a sample **RetailPulse** retail dataset. They cover the full BI workflow: importing and cleaning data, modeling and DAX, time intelligence and performance tuning, then interactive dashboards, row-level security and Power Platform integration.
 
-**Author:** Aditya Kushwaha
+**Author:** Aman Yadav
 **Programme:** BCA (Data Science & AI), School of Computer Applications, Babu Banaras Das University
 
 ---
